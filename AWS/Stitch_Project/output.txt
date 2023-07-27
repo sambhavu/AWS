@@ -1,0 +1,2564 @@
+
+predicted_images/musc/ 
+Status: No Image for Key
+
+predicted_images/musc/0067b15f-1754-4106-8fd8-f01687ada21c-138-covid19-prob-0.469.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  138.png
+Individual Image Download Successful
+Image Saved. File Name:  138-covid19-prob-0.469.png
+Individual Files Removed
+
+predicted_images/musc/0151fbdb-426d-4373-88fa-2d37b39524a1-199 1-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  199 1.png
+Individual Image Download Successful
+Image Saved. File Name:  199 1-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/016a59a1-d05b-4399-b086-2ef5642d7868-168 2-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  168 2.png
+Individual Image Download Successful
+Image Saved. File Name:  168 2-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/0218fb6e-f8eb-42eb-81e2-e591d0c7f69a-36 1-covid19-prob-0.933.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  36 1.png
+Individual Image Download Successful
+Image Saved. File Name:  36 1-covid19-prob-0.933.png
+Individual Files Removed
+
+predicted_images/musc/0284c2cf-e392-4d3c-97bb-288512c2d7c7-87 1-covid19-prob-0.995.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  87 1.png
+Individual Image Download Successful
+Image Saved. File Name:  87 1-covid19-prob-0.995.png
+Individual Files Removed
+
+predicted_images/musc/0293020a-ab3e-4856-b620-9e1dc202b81f-225-covid19-prob-0.381.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  225.PNG
+Individual Image Download Successful
+Image Saved. File Name:  225-covid19-prob-0.381.png
+Individual Files Removed
+
+predicted_images/musc/02f135a7-2dc9-42f7-813e-70dd1788653c-216-covid19-prob-0.978.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  216.png
+Individual Image Download Successful
+Image Saved. File Name:  216-covid19-prob-0.978.png
+Individual Files Removed
+
+predicted_images/musc/04b1f05c-a29b-46d5-827d-a76a8a729eac-114-covid19-prob-0.933.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  114.PNG
+Individual Image Download Successful
+Image Saved. File Name:  114-covid19-prob-0.933.png
+Individual Files Removed
+
+predicted_images/musc/053cf57e-6a36-47f5-a04d-9e6beec68a6c-24-covid19-prob-0.566.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  24.PNG
+Individual Image Download Successful
+Image Saved. File Name:  24-covid19-prob-0.566.png
+Individual Files Removed
+
+predicted_images/musc/06103f54-8f07-4dfb-a806-24855adfd43e-80 1-covid19-prob-0.895.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  80 1.png
+Individual Image Download Successful
+Image Saved. File Name:  80 1-covid19-prob-0.895.png
+Individual Files Removed
+
+predicted_images/musc/0677969d-8d9c-492e-8039-5af0f0b57968-90-covid19-prob-0.236.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  90.png
+Individual Image Download Successful
+Image Saved. File Name:  90-covid19-prob-0.236.png
+Individual Files Removed
+
+predicted_images/musc/06cad7a1-896f-4744-90a2-325026ad439a-IM-0027-0001-covid19-prob-0.0.png 
+Status: No Image for Key
+
+predicted_images/musc/0766193e-91d5-4976-8262-db3cceaa3de4-207 2-covid19-prob-0.651.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  207 2.png
+Individual Image Download Successful
+Image Saved. File Name:  207 2-covid19-prob-0.651.png
+Individual Files Removed
+
+predicted_images/musc/080f883c-17b6-4a3a-bafa-2a6843b9ee3a-220-covid19-prob-0.729.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  220.png
+Individual Image Download Successful
+Image Saved. File Name:  220-covid19-prob-0.729.png
+Individual Files Removed
+
+predicted_images/musc/084ed670-9488-4042-8f05-8c7cea99de08-95-1-covid19-prob-0.015.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  95-1.PNG
+Individual Image Download Successful
+Image Saved. File Name:  95-1-covid19-prob-0.015.png
+Individual Files Removed
+
+predicted_images/musc/08da2ee6-8d02-4809-bae0-7b72faed1792-207-covid19-prob-0.343.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  207.png
+Individual Image Download Successful
+Image Saved. File Name:  207-covid19-prob-0.343.png
+Individual Files Removed
+
+predicted_images/musc/0b860706-41e1-4827-815e-6dd5a58cc67a-136-covid19-prob-0.999.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  136.png
+Individual Image Download Successful
+Image Saved. File Name:  136-covid19-prob-0.999.png
+Individual Files Removed
+
+predicted_images/musc/0d4b1865-5c77-496c-a723-d9531e232f4d-91 1-covid19-prob-0.219.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  91 1.png
+Individual Image Download Successful
+Image Saved. File Name:  91 1-covid19-prob-0.219.png
+Individual Files Removed
+
+predicted_images/musc/0e1b44bd-db70-44c6-bf84-6b2dae450ceb-191 1-covid19-prob-0.934.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  191 1.png
+Individual Image Download Successful
+Image Saved. File Name:  191 1-covid19-prob-0.934.png
+Individual Files Removed
+
+predicted_images/musc/0e3df320-8897-4b91-ba19-d670ed421374-81-covid19-prob-0.588.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  81.png
+Individual Image Download Successful
+Image Saved. File Name:  81-covid19-prob-0.588.png
+Individual Files Removed
+
+predicted_images/musc/0fe9d5d9-ec51-4495-8797-17c49b8fe61b-5-covid19-prob-0.139.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  5.png
+Individual Image Download Successful
+Image Saved. File Name:  5-covid19-prob-0.139.png
+Individual Files Removed
+
+predicted_images/musc/1-covid19-prob-0.403.png 
+Status: No Image for Key
+
+predicted_images/musc/1-s2.0-S0929664620300449-gr2_lrg-a-covid19-prob-1.0.png 
+Status: No Image for Key
+
+predicted_images/musc/1-s2.0-S1684118220300608-main.pdf-002-covid19-prob-0.994.png 
+Status: No Image for Key
+
+predicted_images/musc/109dbf89-8d4a-405f-9c50-23aa69f6a225-32 3-covid19-prob-0.997.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  32 3.png
+Individual Image Download Successful
+Image Saved. File Name:  32 3-covid19-prob-0.997.png
+Individual Files Removed
+
+predicted_images/musc/10e40496-cf30-4e72-8088-6e87e1a000a3-204-covid19-prob-0.974.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  204.png
+Individual Image Download Successful
+Image Saved. File Name:  204-covid19-prob-0.974.png
+Individual Files Removed
+
+predicted_images/musc/116083a9-ac43-4cd2-957c-4f823a9ccfcc-56-covid19-prob-0.421.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  56.PNG
+Individual Image Download Successful
+Image Saved. File Name:  56-covid19-prob-0.421.png
+Individual Files Removed
+
+predicted_images/musc/1213fd11-d558-4c9d-8d21-29a46a48a4de-192 2-covid19-prob-0.998.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  192 2.png
+Individual Image Download Successful
+Image Saved. File Name:  192 2-covid19-prob-0.998.png
+Individual Files Removed
+
+predicted_images/musc/1312A392-67A3-4EBF-9319-810CF6DA5EF6-covid19-prob-1.0.png 
+Status: No Image for Key
+
+predicted_images/musc/13a60c5f-6593-4de9-b169-c3d3aa5e7030-228-1-covid19-prob-0.995.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  228-1.PNG
+Individual Image Download Successful
+Image Saved. File Name:  228-1-covid19-prob-0.995.png
+Individual Files Removed
+
+predicted_images/musc/14bf27fe-afeb-4493-82fb-6f286a76ad20-132 2-covid19-prob-0.999.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  132 2.png
+Individual Image Download Successful
+Image Saved. File Name:  132 2-covid19-prob-0.999.png
+Individual Files Removed
+
+predicted_images/musc/14c1d4c5-8a34-4346-83b1-43032a913952-229-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  229.PNG
+Individual Image Download Successful
+Image Saved. File Name:  229-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/15b1d74e-c89c-4ea1-aeff-bb5e5570cc4c-80-covid19-prob-0.568.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  80.png
+Individual Image Download Successful
+Image Saved. File Name:  80-covid19-prob-0.568.png
+Individual Files Removed
+
+predicted_images/musc/161e0777-cfc8-488e-a794-2dbcd51a4e7c-36 2-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  36 2.png
+Individual Image Download Successful
+Image Saved. File Name:  36 2-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/1660c377-263b-43ec-a24c-fc54e7440631-132 1-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  132 1.png
+Individual Image Download Successful
+Image Saved. File Name:  132 1-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/16b70253-d125-4375-b7a1-19526e63fd52-74-covid19-prob-0.626.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  74.png
+Individual Image Download Successful
+Image Saved. File Name:  74-covid19-prob-0.626.png
+Individual Files Removed
+
+predicted_images/musc/172931b1-83bb-4c8c-851a-d545bf5c8ca6-144-covid19-prob-0.165.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  144.PNG
+Individual Image Download Successful
+Image Saved. File Name:  144-covid19-prob-0.165.png
+Individual Files Removed
+
+predicted_images/musc/17430b81-4e28-45ef-bc3a-d1c55102fd34-209-covid19-prob-0.956.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  209.png
+Individual Image Download Successful
+Image Saved. File Name:  209-covid19-prob-0.956.png
+Individual Files Removed
+
+predicted_images/musc/186582c3-668c-48ee-ae9c-7dff6e2840eb-83-covid19-prob-0.914.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  83.png
+Individual Image Download Successful
+Image Saved. File Name:  83-covid19-prob-0.914.png
+Individual Files Removed
+
+predicted_images/musc/1988e49c-1656-4f9a-aa8e-89cfa08e62b4-202-covid19-prob-0.977.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  202.png
+Individual Image Download Successful
+Image Saved. File Name:  202-covid19-prob-0.977.png
+Individual Files Removed
+
+predicted_images/musc/19a73868-2dbc-4339-93ba-358c4cab8ffd-246-covid19-prob-0.801.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  246.PNG
+Individual Image Download Successful
+Image Saved. File Name:  246-covid19-prob-0.801.png
+Individual Files Removed
+
+predicted_images/musc/1b8eec94-15f8-45b0-aacf-01b4d82e7b4f-198-covid19-prob-0.838.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  198.png
+Individual Image Download Successful
+Image Saved. File Name:  198-covid19-prob-0.838.png
+Individual Files Removed
+
+predicted_images/musc/1bfe42b2-ef32-476c-9970-09cde9d5feb8-249-covid19-prob-0.004.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  249.PNG
+Individual Image Download Successful
+Image Saved. File Name:  249-covid19-prob-0.004.png
+Individual Files Removed
+
+predicted_images/musc/1c31f8ed-de8a-4443-a9e4-72bd2f3a9f86-223-1-covid19-prob-0.381.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  223-1.PNG
+Individual Image Download Successful
+Image Saved. File Name:  223-1-covid19-prob-0.381.png
+Individual Files Removed
+
+predicted_images/musc/1c64a745-bc2a-463a-86ea-5426b9b2fa11-32 4-covid19-prob-0.998.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  32 4.png
+Individual Image Download Successful
+Image Saved. File Name:  32 4-covid19-prob-0.998.png
+Individual Files Removed
+
+predicted_images/musc/1d12d127-dd5a-4a61-b90f-04923784eb05-Patient_Five-covid19-prob-0.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  Patient_Five.jpeg
+Individual Image Download Successful
+Image Saved. File Name:  Patient_Five-covid19-prob-0.0.png
+Individual Files Removed
+
+predicted_images/musc/1e34dea6-2d19-4cf5-9d4e-9322d5dd7315-46-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  46.PNG
+Individual Image Download Successful
+Image Saved. File Name:  46-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/1fcc65b1-1c4b-4d20-8223-8bb784f5fe01-133-covid19-prob-0.981.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  133.png
+Individual Image Download Successful
+Image Saved. File Name:  133-covid19-prob-0.981.png
+Individual Files Removed
+
+predicted_images/musc/1ff68fa9-36b5-476a-95da-e3fb03dc2fcd-106-covid19-prob-0.428.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  106.PNG
+Individual Image Download Successful
+Image Saved. File Name:  106-covid19-prob-0.428.png
+Individual Files Removed
+
+predicted_images/musc/2-covid19-prob-1.0.png 
+Status: No Image for Key
+
+predicted_images/musc/2262cc23-e329-4cd8-816d-b87bbf3371c1-205-covid19-prob-0.012.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  205.png
+Individual Image Download Successful
+Image Saved. File Name:  205-covid19-prob-0.012.png
+Individual Files Removed
+
+predicted_images/musc/22bbfc8f-a47a-4fa7-8240-15fa43969aec-Screen Shot 2020-12-02 at 9.16.04 AM-covid19-prob-0.593.png 
+Status: No Image for Key
+
+predicted_images/musc/230f41c6-811b-40e8-b177-b0de9c4fdb37-215 1-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  215 1.png
+Individual Image Download Successful
+Image Saved. File Name:  215 1-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/26209357-8886-4fa2-bd04-347fc01116ec-71 -1-covid19-prob-0.999.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  71 -1.PNG
+Individual Image Download Successful
+Image Saved. File Name:  71 -1-covid19-prob-0.999.png
+Individual Files Removed
+
+predicted_images/musc/26654081-f371-4b89-9661-abbc6834ffad-221-covid19-prob-0.993.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  221.png
+Individual Image Download Successful
+Image Saved. File Name:  221-covid19-prob-0.993.png
+Individual Files Removed
+
+predicted_images/musc/2682f146-f4c3-40e4-a2df-844446ef1d88-150 1-covid19-prob-0.846.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  150 1.png
+Individual Image Download Successful
+Image Saved. File Name:  150 1-covid19-prob-0.846.png
+Individual Files Removed
+
+predicted_images/musc/26aa14b8-959d-4fbd-908c-1af61ef2e7fb-108-covid19-prob-0.997.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  108.PNG
+Individual Image Download Successful
+Image Saved. File Name:  108-covid19-prob-0.997.png
+Individual Files Removed
+
+predicted_images/musc/26dfd271-cc1e-4ab9-977a-bb88bdc61e15-108 1-covid19-prob-0.928.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  108 1.PNG
+Individual Image Download Successful
+Image Saved. File Name:  108 1-covid19-prob-0.928.png
+Individual Files Removed
+
+predicted_images/musc/29b00a47-728d-445e-8093-0ac6705b70fa-157-covid19-prob-0.418.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  157.png
+Individual Image Download Successful
+Image Saved. File Name:  157-covid19-prob-0.418.png
+Individual Files Removed
+
+predicted_images/musc/2b021e42-1f90-4429-bb4a-077541b9f9f7-137-covid19-prob-0.988.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  137.png
+Individual Image Download Successful
+Image Saved. File Name:  137-covid19-prob-0.988.png
+Individual Files Removed
+
+predicted_images/musc/2b8746fa-4b10-439c-9c4a-95e9e6e12747-217-covid19-prob-0.994.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  217.png
+Individual Image Download Successful
+Image Saved. File Name:  217-covid19-prob-0.994.png
+Individual Files Removed
+
+predicted_images/musc/2ce58033-d44d-4665-ad23-812aea9f0711-167 1-covid19-prob-0.968.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  167 1.png
+Individual Image Download Successful
+Image Saved. File Name:  167 1-covid19-prob-0.968.png
+Individual Files Removed
+
+predicted_images/musc/2d1f3c1d-94f0-47ae-adf9-babd0add40db-103-covid19-prob-0.437.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  103.PNG
+Individual Image Download Successful
+Image Saved. File Name:  103-covid19-prob-0.437.png
+Individual Files Removed
+
+predicted_images/musc/2ee7a2cb-fe63-4cf2-b052-af86d70083a8-231-covid19-prob-0.984.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  231.PNG
+Individual Image Download Successful
+Image Saved. File Name:  231-covid19-prob-0.984.png
+Individual Files Removed
+
+predicted_images/musc/2f1ad9d7-f98f-46c4-a295-4996165959e2-73-covid19-prob-0.997.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  73.png
+Individual Image Download Successful
+Image Saved. File Name:  73-covid19-prob-0.997.png
+Individual Files Removed
+
+predicted_images/musc/31d5c9c1-f1c6-4b34-b940-9422b071eb56-236-covid19-prob-0.983.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  236.png
+Individual Image Download Successful
+Image Saved. File Name:  236-covid19-prob-0.983.png
+Individual Files Removed
+
+predicted_images/musc/3227e31f-88d0-4e8b-9068-1b4052dd9adc-19 1-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  19 1.PNG
+Individual Image Download Successful
+Image Saved. File Name:  19 1-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/3293058e-94bc-4553-a796-70582a41f298-230-1-covid19-prob-0.994.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  230-1.PNG
+Individual Image Download Successful
+Image Saved. File Name:  230-1-covid19-prob-0.994.png
+Individual Files Removed
+
+predicted_images/musc/333632b1-dfae-4cf8-b484-800291cf8669-96-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  96.PNG
+Individual Image Download Successful
+Image Saved. File Name:  96-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/3357c697-a567-4fb7-8c55-156c48d157b7-194-covid19-prob-0.798.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  194.png
+Individual Image Download Successful
+Image Saved. File Name:  194-covid19-prob-0.798.png
+Individual Files Removed
+
+predicted_images/musc/3362af09-d0b8-4281-abf9-47ca214aa929-155-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  155.png
+Individual Image Download Successful
+Image Saved. File Name:  155-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/33958dc8-9a66-4958-ba24-9f51a300d097-164-covid19-prob-0.929.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  164.png
+Individual Image Download Successful
+Image Saved. File Name:  164-covid19-prob-0.929.png
+Individual Files Removed
+
+predicted_images/musc/33ac9071-be7c-4556-a2f0-0def8076c792-92-covid19-prob-0.849.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  92.png
+Individual Image Download Successful
+Image Saved. File Name:  92-covid19-prob-0.849.png
+Individual Files Removed
+
+predicted_images/musc/34be1414-1ff8-4ace-899c-102a4420dbf4-230-covid19-prob-0.926.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  230.PNG
+Individual Image Download Successful
+Image Saved. File Name:  230-covid19-prob-0.926.png
+Individual Files Removed
+
+predicted_images/musc/361dcbbc-a35e-4c3c-b77e-a18f76f4c550-VIB_MAIL_70YRS-covid19-prob-0.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  VIB_MAIL_70YRS.jpg
+Individual Image Download Successful
+Image Saved. File Name:  VIB_MAIL_70YRS-covid19-prob-0.0.png
+Individual Files Removed
+
+predicted_images/musc/386daad9-b328-4743-a87c-f82be8aff69d-33 1-covid19-prob-0.991.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  33 1.png
+Individual Image Download Successful
+Image Saved. File Name:  33 1-covid19-prob-0.991.png
+Individual Files Removed
+
+predicted_images/musc/392f4652-4465-41a7-be9b-662484dec4f5-33 4-covid19-prob-0.881.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  33 4.png
+Individual Image Download Successful
+Image Saved. File Name:  33 4-covid19-prob-0.881.png
+Individual Files Removed
+
+predicted_images/musc/39a50ab2-01e2-404b-b41a-b04e76d87bb1-139-covid19-prob-0.721.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  139.png
+Individual Image Download Successful
+Image Saved. File Name:  139-covid19-prob-0.721.png
+Individual Files Removed
+
+predicted_images/musc/3a7fb7f7-1b68-405a-b62d-0a680281b3bb-43-covid19-prob-0.747.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  43.PNG
+Individual Image Download Successful
+Image Saved. File Name:  43-covid19-prob-0.747.png
+Individual Files Removed
+
+predicted_images/musc/3aa2ec8e-ef42-44c3-a053-d5197e8c9d43-203-covid19-prob-0.966.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  203.png
+Individual Image Download Successful
+Image Saved. File Name:  203-covid19-prob-0.966.png
+Individual Files Removed
+
+predicted_images/musc/3ab6d1ec-1e18-4889-9313-8e4a72966198-200 1-covid19-prob-0.497.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  200 1.png
+Individual Image Download Successful
+Image Saved. File Name:  200 1-covid19-prob-0.497.png
+Individual Files Removed
+
+predicted_images/musc/3ad37469-c6ef-4006-ac59-885f486bbf9c-215-covid19-prob-0.64.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  215.png
+Individual Image Download Successful
+Image Saved. File Name:  215-covid19-prob-0.64.png
+Individual Files Removed
+
+predicted_images/musc/3ba11597-fc23-405e-888d-ecc201158bc6-67-covid19-prob-0.72.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  67.PNG
+Individual Image Download Successful
+Image Saved. File Name:  67-covid19-prob-0.72.png
+Individual Files Removed
+
+predicted_images/musc/3ba327ef-b3a5-42ab-b635-099a3e21a270-146-1-covid19-prob-0.881.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  146-1.PNG
+Individual Image Download Successful
+Image Saved. File Name:  146-1-covid19-prob-0.881.png
+Individual Files Removed
+
+predicted_images/musc/3c42bad5-4480-4bb7-beef-2ef581402ac8-176-covid19-prob-0.995.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  176.png
+Individual Image Download Successful
+Image Saved. File Name:  176-covid19-prob-0.995.png
+Individual Files Removed
+
+predicted_images/musc/3c74235b-c354-4d8f-b2db-ddd068c10420-85-covid19-prob-0.931.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  85.png
+Individual Image Download Successful
+Image Saved. File Name:  85-covid19-prob-0.931.png
+Individual Files Removed
+
+predicted_images/musc/3d416150-6f3b-42c8-a6e9-2b2b6b5b01a6-14-covid19-prob-0.477.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  14.PNG
+Individual Image Download Successful
+Image Saved. File Name:  14-covid19-prob-0.477.png
+Individual Files Removed
+
+predicted_images/musc/3d4354a4-630a-42f3-920c-4ca3dd5cafb1-70-covid19-prob-0.163.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  70.PNG
+Individual Image Download Successful
+Image Saved. File Name:  70-covid19-prob-0.163.png
+Individual Files Removed
+
+predicted_images/musc/3da46720-16a0-4968-bb70-fa74944e5b3b-121-covid19-prob-0.666.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  121.PNG
+Individual Image Download Successful
+Image Saved. File Name:  121-covid19-prob-0.666.png
+Individual Files Removed
+
+predicted_images/musc/3de671e0-074d-4113-8f70-44a45b602735-64-covid19-prob-0.019.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  64.PNG
+Individual Image Download Successful
+Image Saved. File Name:  64-covid19-prob-0.019.png
+Individual Files Removed
+
+predicted_images/musc/3df34d55-1c8f-4353-8330-6bc7cede889a-113-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  113.PNG
+Individual Image Download Successful
+Image Saved. File Name:  113-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/3e7b2e91-4f9e-40f7-ac2a-7c589460956b-243-covid19-prob-0.993.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  243.PNG
+Individual Image Download Successful
+Image Saved. File Name:  243-covid19-prob-0.993.png
+Individual Files Removed
+
+predicted_images/musc/3f989a12-0a7b-438c-b90d-9f1dcd50f755-Screen Shot 2020-12-13 at 10.38.07 AM-covid19-prob-0.912.png 
+Status: No Image for Key
+
+predicted_images/musc/4-covid19-prob-0.983.png 
+Status: No Image for Key
+
+predicted_images/musc/40367f75-c12e-4579-9a8c-0b789783389d-210-covid19-prob-0.978.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  210.png
+Individual Image Download Successful
+Image Saved. File Name:  210-covid19-prob-0.978.png
+Individual Files Removed
+
+predicted_images/musc/4069af44-8962-490d-87dd-0e518aa3c712-36 1 second-covid19-prob-0.838.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  36 1 second.png
+Individual Image Download Successful
+Image Saved. File Name:  36 1 second-covid19-prob-0.838.png
+Individual Files Removed
+
+predicted_images/musc/406ce193-9e12-4d78-9b7d-73a9a2953808-88-covid19-prob-0.963.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  88.png
+Individual Image Download Successful
+Image Saved. File Name:  88-covid19-prob-0.963.png
+Individual Files Removed
+
+predicted_images/musc/41591_2020_819_Fig1_HTML.webp-day5-covid19-prob-0.999.png 
+Status: No Image for Key
+
+predicted_images/musc/4188f5d3-1d39-464d-8d34-0ed5d55767b7-213 3-covid19-prob-0.972.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  213 3.png
+Individual Image Download Successful
+Image Saved. File Name:  213 3-covid19-prob-0.972.png
+Individual Files Removed
+
+predicted_images/musc/42f87a13-711d-435b-858d-86998946bd7b-38-covid19-prob-0.917.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  38.png
+Individual Image Download Successful
+Image Saved. File Name:  38-covid19-prob-0.917.png
+Individual Files Removed
+
+predicted_images/musc/436b31ad-bc64-486c-93d1-95aac3da4eac-181-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  181.png
+Individual Image Download Successful
+Image Saved. File Name:  181-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/448da841-a02d-4010-a917-3fb795457c7b-2-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  2.png
+Individual Image Download Successful
+Image Saved. File Name:  2-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/4613d0a0-576c-4015-8011-fca1b26b161e-134-covid19-prob-0.903.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  134.png
+Individual Image Download Successful
+Image Saved. File Name:  134-covid19-prob-0.903.png
+Individual Files Removed
+
+predicted_images/musc/467ff3f4-b59b-463c-ac4c-c5830eb966a1-83 1-covid19-prob-0.403.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  83 1.png
+Individual Image Download Successful
+Image Saved. File Name:  83 1-covid19-prob-0.403.png
+Individual Files Removed
+
+predicted_images/musc/4693415a-eb1b-4c8b-9f51-2e3277ecb426-199-covid19-prob-0.863.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  199.png
+Individual Image Download Successful
+Image Saved. File Name:  199-covid19-prob-0.863.png
+Individual Files Removed
+
+predicted_images/musc/46bd0792-96c2-47e3-b5f9-a2f0b2af453f-170-covid19-prob-0.812.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  170.png
+Individual Image Download Successful
+Image Saved. File Name:  170-covid19-prob-0.812.png
+Individual Files Removed
+
+predicted_images/musc/46c4b97e-5f60-4257-ab4a-ec46f1290afa-102-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  102.PNG
+Individual Image Download Successful
+Image Saved. File Name:  102-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/47d3e8c0-fcb6-4137-ab4d-5b65ca964e69-212-covid19-prob-0.952.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  212.png
+Individual Image Download Successful
+Image Saved. File Name:  212-covid19-prob-0.952.png
+Individual Files Removed
+
+predicted_images/musc/487b6ea3-7202-4ffb-9e18-9d10c29a5a8c-61-covid19-prob-0.925.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  61.PNG
+Individual Image Download Successful
+Image Saved. File Name:  61-covid19-prob-0.925.png
+Individual Files Removed
+
+predicted_images/musc/487bb734-b1d7-4fbd-bf1e-8c37079ae0a3-57-covid19-prob-0.365.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  57.PNG
+Individual Image Download Successful
+Image Saved. File Name:  57-covid19-prob-0.365.png
+Individual Files Removed
+
+predicted_images/musc/487dc006-7180-40d3-83f6-1c389f06151d-183-covid19-prob-0.977.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  183.png
+Individual Image Download Successful
+Image Saved. File Name:  183-covid19-prob-0.977.png
+Individual Files Removed
+
+predicted_images/musc/48d2615c-2318-41ea-890c-e927ee0adc95-234-covid19-prob-0.894.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  234.png
+Individual Image Download Successful
+Image Saved. File Name:  234-covid19-prob-0.894.png
+Individual Files Removed
+
+predicted_images/musc/49626abe-dde1-4bab-98d3-b507f7d943c6-169-covid19-prob-0.979.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  169.png
+Individual Image Download Successful
+Image Saved. File Name:  169-covid19-prob-0.979.png
+Individual Files Removed
+
+predicted_images/musc/4a3dfc2e-401b-41d0-bc8b-6e6f2bd827de-20-covid19-prob-0.515.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  20.PNG
+Individual Image Download Successful
+Image Saved. File Name:  20-covid19-prob-0.515.png
+Individual Files Removed
+
+predicted_images/musc/4a4e91de-7396-4d2b-b8b5-987ea16bbf1b-87-covid19-prob-0.984.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  87.png
+Individual Image Download Successful
+Image Saved. File Name:  87-covid19-prob-0.984.png
+Individual Files Removed
+
+predicted_images/musc/4a8a1635-708c-4682-86ad-2d4a48f00e9e-105-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  105.PNG
+Individual Image Download Successful
+Image Saved. File Name:  105-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/4aa8e2c5-65c6-48b8-9c5d-8afe1ac8c623-250-covid19-prob-0.894.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  250.PNG
+Individual Image Download Successful
+Image Saved. File Name:  250-covid19-prob-0.894.png
+Individual Files Removed
+
+predicted_images/musc/4aac5f0a-7001-4085-9ffb-09d089b9df7f-101-covid19-prob-0.143.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  101.PNG
+Individual Image Download Successful
+Image Saved. File Name:  101-covid19-prob-0.143.png
+Individual Files Removed
+
+predicted_images/musc/4ae26de3-cace-4237-931c-84fbd781f5e3-50 1-covid19-prob-0.989.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  50 1.PNG
+Individual Image Download Successful
+Image Saved. File Name:  50 1-covid19-prob-0.989.png
+Individual Files Removed
+
+predicted_images/musc/4c1b0151-7ac5-414b-991c-a089c0963bb6-240-covid19-prob-0.998.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  240.png
+Individual Image Download Successful
+Image Saved. File Name:  240-covid19-prob-0.998.png
+Individual Files Removed
+
+predicted_images/musc/4c4fa605-d193-4b1d-ace7-a5aff0ff1a56-185-covid19-prob-0.928.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  185.png
+Individual Image Download Successful
+Image Saved. File Name:  185-covid19-prob-0.928.png
+Individual Files Removed
+
+predicted_images/musc/4c6aa70d-a2c5-41f1-9b9f-671d45aac4ea-208 1-covid19-prob-0.993.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  208 1.png
+Individual Image Download Successful
+Image Saved. File Name:  208 1-covid19-prob-0.993.png
+Individual Files Removed
+
+predicted_images/musc/4d87d402-5f90-483d-8b50-8489a069ab28-219-covid19-prob-0.653.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  219.png
+Individual Image Download Successful
+Image Saved. File Name:  219-covid19-prob-0.653.png
+Individual Files Removed
+
+predicted_images/musc/4dcb52b9-72ce-4638-baee-cb4cdc4f948f-222-covid19-prob-0.05.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  222.PNG
+Individual Image Download Successful
+Image Saved. File Name:  222-covid19-prob-0.05.png
+Individual Files Removed
+
+predicted_images/musc/5-covid19-prob-0.139.png 
+Status: No Image for Key
+
+predicted_images/musc/50048195-68fe-4704-a408-936aaad22b63-180-covid19-prob-0.998.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  180.png
+Individual Image Download Successful
+Image Saved. File Name:  180-covid19-prob-0.998.png
+Individual Files Removed
+
+predicted_images/musc/503e52d3-cf0d-4e33-934c-52bbbdeb2005-84-covid19-prob-0.959.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  84.png
+Individual Image Download Successful
+Image Saved. File Name:  84-covid19-prob-0.959.png
+Individual Files Removed
+
+predicted_images/musc/50cc320d-a4c0-476a-9da6-c120934b885d-119-covid19-prob-0.728.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  119.PNG
+Individual Image Download Successful
+Image Saved. File Name:  119-covid19-prob-0.728.png
+Individual Files Removed
+
+predicted_images/musc/523ad70a-2a5c-4312-8210-cef60a552bd8-168 1-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  168 1.png
+Individual Image Download Successful
+Image Saved. File Name:  168 1-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/52b1e2d1-1ab2-428b-8776-59661cbc2633-145-covid19-prob-0.205.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  145.PNG
+Individual Image Download Successful
+Image Saved. File Name:  145-covid19-prob-0.205.png
+Individual Files Removed
+
+predicted_images/musc/53209f8a-4e8d-400c-865a-b21c9a832a16-190-covid19-prob-0.103.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  190.png
+Individual Image Download Successful
+Image Saved. File Name:  190-covid19-prob-0.103.png
+Individual Files Removed
+
+predicted_images/musc/557f4e48-aed3-40f9-949d-b8cdd1e3b5eb-Screen Shot 2020-12-13 at 10.35.15 AM-covid19-prob-0.999.png 
+Status: No Image for Key
+
+predicted_images/musc/5634659c-f6cb-4ec5-9326-5ce256ce988c-147-covid19-prob-0.894.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  147.PNG
+Individual Image Download Successful
+Image Saved. File Name:  147-covid19-prob-0.894.png
+Individual Files Removed
+
+predicted_images/musc/56d6b6ca-d914-4c13-b9e1-37202f1d325a-140-covid19-prob-0.915.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  140.png
+Individual Image Download Successful
+Image Saved. File Name:  140-covid19-prob-0.915.png
+Individual Files Removed
+
+predicted_images/musc/577d4742-e6c7-4885-a8db-0fe46e955eb5-104-covid19-prob-0.576.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  104.PNG
+Individual Image Download Successful
+Image Saved. File Name:  104-covid19-prob-0.576.png
+Individual Files Removed
+
+predicted_images/musc/5822b2f4-96bf-47a2-92ee-d5b470caa7ef-19 2-covid19-prob-0.999.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  19 2.PNG
+Individual Image Download Successful
+Image Saved. File Name:  19 2-covid19-prob-0.999.png
+Individual Files Removed
+
+predicted_images/musc/594ae0ae-c138-4071-b13c-c64b8677ec6f-111 1-covid19-prob-0.331.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  111 1.PNG
+Individual Image Download Successful
+Image Saved. File Name:  111 1-covid19-prob-0.331.png
+Individual Files Removed
+
+predicted_images/musc/5a7e3dc0-cd2d-41f7-accf-b5896c2b366e-195-covid19-prob-0.983.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  195.png
+Individual Image Download Successful
+Image Saved. File Name:  195-covid19-prob-0.983.png
+Individual Files Removed
+
+predicted_images/musc/5b3ce406-4c4a-4128-bbe8-60640e1e1561-33 2-covid19-prob-0.841.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  33 2.png
+Individual Image Download Successful
+Image Saved. File Name:  33 2-covid19-prob-0.841.png
+Individual Files Removed
+
+predicted_images/musc/5b88cc70-48df-487a-8846-64328503fb7b-52-covid19-prob-0.999.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  52.PNG
+Individual Image Download Successful
+Image Saved. File Name:  52-covid19-prob-0.999.png
+Individual Files Removed
+
+predicted_images/musc/5bbd7899-79da-413a-bfc8-d41a6a0586a1-109-covid19-prob-0.981.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  109.PNG
+Individual Image Download Successful
+Image Saved. File Name:  109-covid19-prob-0.981.png
+Individual Files Removed
+
+predicted_images/musc/5beeaa6b-7a77-4b6e-8da5-8b16287e40d1-193-covid19-prob-0.998.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  193.png
+Individual Image Download Successful
+Image Saved. File Name:  193-covid19-prob-0.998.png
+Individual Files Removed
+
+predicted_images/musc/5c432c95-949b-4d84-970d-008133836edc-200-covid19-prob-0.661.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  200.png
+Individual Image Download Successful
+Image Saved. File Name:  200-covid19-prob-0.661.png
+Individual Files Removed
+
+predicted_images/musc/5ccf52cd-ed96-4cc9-afe7-e305a18e9ead-66-covid19-prob-0.045.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  66.PNG
+Individual Image Download Successful
+Image Saved. File Name:  66-covid19-prob-0.045.png
+Individual Files Removed
+
+predicted_images/musc/5d5d2819-cf9f-4844-90e1-66f5b275d539-102-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  102.PNG
+Individual Image Download Successful
+Image Saved. File Name:  102-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/5e6dd879fde9502400e58b2f-covid19-prob-1.0.png 
+Status: No Image for Key
+
+predicted_images/musc/5f7ae49b-8b49-4272-bbfd-8814a3150bdc-67 1-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  67 1.PNG
+Individual Image Download Successful
+Image Saved. File Name:  67 1-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/5f823a41-ac1b-4ad4-bd9f-804fe8cb2121-131-covid19-prob-0.994.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  131.png
+Individual Image Download Successful
+Image Saved. File Name:  131-covid19-prob-0.994.png
+Individual Files Removed
+
+predicted_images/musc/6-covid19-prob-0.998.png 
+Status: No Image for Key
+
+predicted_images/musc/602ce5ac-e970-45ed-a18d-8c77b7f3cff9-184-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  184.png
+Individual Image Download Successful
+Image Saved. File Name:  184-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/60df108c-44a7-4859-ad00-059ebc3a95a2-107-covid19-prob-0.962.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  107.PNG
+Individual Image Download Successful
+Image Saved. File Name:  107-covid19-prob-0.962.png
+Individual Files Removed
+
+predicted_images/musc/61eb6abc-88ed-4b8e-9666-ffc4249ba6d4-167 2-covid19-prob-0.219.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  167 2.png
+Individual Image Download Successful
+Image Saved. File Name:  167 2-covid19-prob-0.219.png
+Individual Files Removed
+
+predicted_images/musc/62000112-1270-4ec2-b710-b819666c6162-59-covid19-prob-0.682.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  59.PNG
+Individual Image Download Successful
+Image Saved. File Name:  59-covid19-prob-0.682.png
+Individual Files Removed
+
+predicted_images/musc/6239f0ee-d62f-4f2d-b45d-3c606d30da12-211-covid19-prob-0.396.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  211.png
+Individual Image Download Successful
+Image Saved. File Name:  211-covid19-prob-0.396.png
+Individual Files Removed
+
+predicted_images/musc/62707d73-a50a-482a-b396-e20c49dcbd32-218-covid19-prob-0.004.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  218.png
+Individual Image Download Successful
+Image Saved. File Name:  218-covid19-prob-0.004.png
+Individual Files Removed
+
+predicted_images/musc/6289d9ba-6c65-47a6-bb44-0925f2fdca88-163-covid19-prob-0.999.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  163.png
+Individual Image Download Successful
+Image Saved. File Name:  163-covid19-prob-0.999.png
+Individual Files Removed
+
+predicted_images/musc/62d3b10b-1cd0-4af3-ae25-b282bedf2757-IM-0027-0001-covid19-prob-0.0.png 
+Status: No Image for Key
+
+predicted_images/musc/62e6c9b7-5783-43d0-9aba-103674162453-85 1-covid19-prob-0.264.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  85 1.png
+Individual Image Download Successful
+Image Saved. File Name:  85 1-covid19-prob-0.264.png
+Individual Files Removed
+
+predicted_images/musc/6336fb8c-9a58-4ada-9049-e060442f96fd-40-covid19-prob-0.233.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  40.PNG
+Individual Image Download Successful
+Image Saved. File Name:  40-covid19-prob-0.233.png
+Individual Files Removed
+
+predicted_images/musc/63c49167-34b0-40ff-86f0-f20fdbd15112-162-covid19-prob-0.92.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  162.png
+Individual Image Download Successful
+Image Saved. File Name:  162-covid19-prob-0.92.png
+Individual Files Removed
+
+predicted_images/musc/64d31e49-0950-47ea-bcef-389ff69a21d9-216 2-covid19-prob-0.99.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  216 2.png
+Individual Image Download Successful
+Image Saved. File Name:  216 2-covid19-prob-0.99.png
+Individual Files Removed
+
+predicted_images/musc/656d5a08-7a76-42b8-9f01-6a836ae697ee-32 2-covid19-prob-0.925.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  32 2.png
+Individual Image Download Successful
+Image Saved. File Name:  32 2-covid19-prob-0.925.png
+Individual Files Removed
+
+predicted_images/musc/65897637-c3c9-4944-8a39-38c31519f7cb-IM-0027-0001-covid19-prob-0.0.png 
+Status: No Image for Key
+
+predicted_images/musc/660a8db1-353c-4777-a1f8-ed34a6a0bff5-148-covid19-prob-0.993.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  148.PNG
+Individual Image Download Successful
+Image Saved. File Name:  148-covid19-prob-0.993.png
+Individual Files Removed
+
+predicted_images/musc/6669fcdd-54c6-46b6-9771-c0c6971e7220-232-covid19-prob-0.151.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  232.PNG
+Individual Image Download Successful
+Image Saved. File Name:  232-covid19-prob-0.151.png
+Individual Files Removed
+
+predicted_images/musc/6742d221-c3e7-4dee-ae1c-93826e084573-31 2-covid19-prob-0.4.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  31 2.png
+Individual Image Download Successful
+Image Saved. File Name:  31 2-covid19-prob-0.4.png
+Individual Files Removed
+
+predicted_images/musc/685c43cb-6177-4960-a538-38d3bbefc710-12-covid19-prob-0.311.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  12.PNG
+Individual Image Download Successful
+Image Saved. File Name:  12-covid19-prob-0.311.png
+Individual Files Removed
+
+predicted_images/musc/6bc8b508-8ec9-41d3-aaf2-af920673a510-226-covid19-prob-0.991.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  226.PNG
+Individual Image Download Successful
+Image Saved. File Name:  226-covid19-prob-0.991.png
+Individual Files Removed
+
+predicted_images/musc/6bebd969-1f7c-4d08-ad73-9e9acaa5189a-73 2-covid19-prob-0.187.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  73 2.png
+Individual Image Download Successful
+Image Saved. File Name:  73 2-covid19-prob-0.187.png
+Individual Files Removed
+
+predicted_images/musc/6cdef989-6498-4f46-a2ee-60a7842d0fba-91-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  91.png
+Individual Image Download Successful
+Image Saved. File Name:  91-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/6d4b220d-decb-4586-a988-2f75405e75bb-196-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  196.png
+Individual Image Download Successful
+Image Saved. File Name:  196-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/6da982ad-6c32-40e6-9420-e81fc78b6943-75-covid19-prob-0.97.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  75.png
+Individual Image Download Successful
+Image Saved. File Name:  75-covid19-prob-0.97.png
+Individual Files Removed
+
+predicted_images/musc/6e6916a0-a888-4eba-8f6f-d020db790b43-49-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  49.PNG
+Individual Image Download Successful
+Image Saved. File Name:  49-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/6fdbe73e-0c48-42a1-b4ba-61dca789c902-33 5-covid19-prob-0.555.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  33 5.png
+Individual Image Download Successful
+Image Saved. File Name:  33 5-covid19-prob-0.555.png
+Individual Files Removed
+
+predicted_images/musc/7549fd23-4e87-417d-b68e-df17c3b136e2-149-covid19-prob-0.935.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  149.png
+Individual Image Download Successful
+Image Saved. File Name:  149-covid19-prob-0.935.png
+Individual Files Removed
+
+predicted_images/musc/77412dbe-7ee5-4c34-8769-c53651c6fa16-237-covid19-prob-0.999.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  237.png
+Individual Image Download Successful
+Image Saved. File Name:  237-covid19-prob-0.999.png
+Individual Files Removed
+
+predicted_images/musc/776d53df-5732-4e4c-8519-7a615ca3a975-86-covid19-prob-0.305.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  86.png
+Individual Image Download Successful
+Image Saved. File Name:  86-covid19-prob-0.305.png
+Individual Files Removed
+
+predicted_images/musc/77c84d8f-a9af-4a8e-b790-388059032e3b-11-covid19-prob-0.988.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  11.PNG
+Individual Image Download Successful
+Image Saved. File Name:  11-covid19-prob-0.988.png
+Individual Files Removed
+
+predicted_images/musc/77dd4d74-0bba-46a6-8bad-843f35addcbf-51-covid19-prob-0.066.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  51.PNG
+Individual Image Download Successful
+Image Saved. File Name:  51-covid19-prob-0.066.png
+Individual Files Removed
+
+predicted_images/musc/788490a3-93a9-4bab-9bf8-e0e8fc4d6418-115-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  115.PNG
+Individual Image Download Successful
+Image Saved. File Name:  115-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/7919ed84-4d76-4f3d-a5a0-bebc2f1efa26-33 5 second-covid19-prob-0.098.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  33 5 second.png
+Individual Image Download Successful
+Image Saved. File Name:  33 5 second-covid19-prob-0.098.png
+Individual Files Removed
+
+predicted_images/musc/79552276-f97c-436f-812f-ba664cb3ca4b-23 3-covid19-prob-0.51.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  23 3.PNG
+Individual Image Download Successful
+Image Saved. File Name:  23 3-covid19-prob-0.51.png
+Individual Files Removed
+
+predicted_images/musc/79691bb9-4e41-46b6-aeb7-ddeadc5194f3-95-covid19-prob-0.361.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  95.PNG
+Individual Image Download Successful
+Image Saved. File Name:  95-covid19-prob-0.361.png
+Individual Files Removed
+
+predicted_images/musc/79c49fd9-c66d-4ae6-97a7-c27aa42b7270-89-1-covid19-prob-0.763.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  89-1.png
+Individual Image Download Successful
+Image Saved. File Name:  89-1-covid19-prob-0.763.png
+Individual Files Removed
+
+predicted_images/musc/7a3b2494-8a9f-4f82-a933-5a66d1bcf9b8-117-covid19-prob-0.951.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  117.PNG
+Individual Image Download Successful
+Image Saved. File Name:  117-covid19-prob-0.951.png
+Individual Files Removed
+
+predicted_images/musc/7b31d0c6-9ce3-4b7d-8024-aeff1b2d5bbd-196-covid19-prob-0.766.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  196.png
+Individual Image Download Successful
+Image Saved. File Name:  196-covid19-prob-0.766.png
+Individual Files Removed
+
+predicted_images/musc/7c72ed88-b50a-41ef-a0d9-788fb17a7866-6-covid19-prob-0.998.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  6.png
+Individual Image Download Successful
+Image Saved. File Name:  6-covid19-prob-0.998.png
+Individual Files Removed
+
+predicted_images/musc/7fecd5ef-cef7-4734-9a02-455396d16ac0-241-covid19-prob-0.348.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  241.png
+Individual Image Download Successful
+Image Saved. File Name:  241-covid19-prob-0.348.png
+Individual Files Removed
+
+predicted_images/musc/817afd86-2cae-4aa9-99da-bb03d01db0b3-1-covid19-prob-0.403.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  1.png
+Individual Image Download Successful
+Image Saved. File Name:  1-covid19-prob-0.403.png
+Individual Files Removed
+
+predicted_images/musc/82d445ba-0b8f-49a6-9f60-6bc68acec375-166 1-covid19-prob-0.069.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  166 1.png
+Individual Image Download Successful
+Image Saved. File Name:  166 1-covid19-prob-0.069.png
+Individual Files Removed
+
+predicted_images/musc/83c33c43-969e-461d-9416-6fb5da525d26-122-covid19-prob-0.995.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  122.PNG
+Individual Image Download Successful
+Image Saved. File Name:  122-covid19-prob-0.995.png
+Individual Files Removed
+
+predicted_images/musc/841e236e-619d-43e4-8841-a627d2d86c33-128-covid19-prob-0.257.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  128.PNG
+Individual Image Download Successful
+Image Saved. File Name:  128-covid19-prob-0.257.png
+Individual Files Removed
+
+predicted_images/musc/845502ef-093d-4f38-b102-ea81cc6722f6-97-covid19-prob-0.999.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  97.PNG
+Individual Image Download Successful
+Image Saved. File Name:  97-covid19-prob-0.999.png
+Individual Files Removed
+
+predicted_images/musc/84de5069-c0be-4894-a3f9-368bbd7f9bcf-25 1-covid19-prob-0.918.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  25 1.PNG
+Individual Image Download Successful
+Image Saved. File Name:  25 1-covid19-prob-0.918.png
+Individual Files Removed
+
+predicted_images/musc/84f666c7-906b-43dc-b41f-d44da51d3560-30-covid19-prob-0.824.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  30.png
+Individual Image Download Successful
+Image Saved. File Name:  30-covid19-prob-0.824.png
+Individual Files Removed
+
+predicted_images/musc/8520f39b-0f11-4302-bcc2-c16c999c391e-174-covid19-prob-0.993.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  174.png
+Individual Image Download Successful
+Image Saved. File Name:  174-covid19-prob-0.993.png
+Individual Files Removed
+
+predicted_images/musc/86c6e924-dc3c-4e52-8970-b0be6cd9aa96-212 1-covid19-prob-0.534.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  212 1.png
+Individual Image Download Successful
+Image Saved. File Name:  212 1-covid19-prob-0.534.png
+Individual Files Removed
+
+predicted_images/musc/88e228f5-0d77-414b-958c-14ebb81111e6-199 1-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  199 1.png
+Individual Image Download Successful
+Image Saved. File Name:  199 1-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/89608364-4682-4a9b-82a2-6dff7adf26d7-198 1-covid19-prob-0.741.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  198 1.png
+Individual Image Download Successful
+Image Saved. File Name:  198 1-covid19-prob-0.741.png
+Individual Files Removed
+
+predicted_images/musc/89781aa8-18bb-4f1f-aa6a-29b68b24d211-192 3-covid19-prob-0.14.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  192 3.png
+Individual Image Download Successful
+Image Saved. File Name:  192 3-covid19-prob-0.14.png
+Individual Files Removed
+
+predicted_images/musc/8a19eaa8-f064-4bdc-b0f9-5c1ab2e491d7-6-covid19-prob-0.998.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  6.png
+Individual Image Download Successful
+Image Saved. File Name:  6-covid19-prob-0.998.png
+Individual Files Removed
+
+predicted_images/musc/8a6bfa45-88aa-4845-91c6-783f82afb9a2-199-covid19-prob-0.893.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  199.png
+Individual Image Download Successful
+Image Saved. File Name:  199-covid19-prob-0.893.png
+Individual Files Removed
+
+predicted_images/musc/8b1e58a4-8c9e-4ba7-b748-f6ebed4e38cf-156-covid19-prob-0.468.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  156.png
+Individual Image Download Successful
+Image Saved. File Name:  156-covid19-prob-0.468.png
+Individual Files Removed
+
+predicted_images/musc/8bc20dec-cb72-4fda-b85c-7e53d73f7524-73 3-covid19-prob-0.999.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  73 3.png
+Individual Image Download Successful
+Image Saved. File Name:  73 3-covid19-prob-0.999.png
+Individual Files Removed
+
+predicted_images/musc/8bf0b647-cd3d-4133-a876-bcd75c25852a-77 1-covid19-prob-0.308.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  77 1.png
+Individual Image Download Successful
+Image Saved. File Name:  77 1-covid19-prob-0.308.png
+Individual Files Removed
+
+predicted_images/musc/8c117ff4-42a2-4c41-b05b-f2458806f292-15-covid19-prob-0.24.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  15.PNG
+Individual Image Download Successful
+Image Saved. File Name:  15-covid19-prob-0.24.png
+Individual Files Removed
+
+predicted_images/musc/8c21da5d-0f56-47c1-9f6a-0392cd25ebb7-94 1-covid19-prob-0.241.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  94 1.png
+Individual Image Download Successful
+Image Saved. File Name:  94 1-covid19-prob-0.241.png
+Individual Files Removed
+
+predicted_images/musc/8c5744bc-e9f6-4e60-81bc-7ac239d6247a-48 2-covid19-prob-0.683.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  48 2.PNG
+Individual Image Download Successful
+Image Saved. File Name:  48 2-covid19-prob-0.683.png
+Individual Files Removed
+
+predicted_images/musc/8c5ab876-abf5-4937-920f-361e71da1694-132-covid19-prob-0.991.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  132.png
+Individual Image Download Successful
+Image Saved. File Name:  132-covid19-prob-0.991.png
+Individual Files Removed
+
+predicted_images/musc/8c8713c7-c666-4ae5-a653-9b532619a41f-85 2-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  85 2.png
+Individual Image Download Successful
+Image Saved. File Name:  85 2-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/8d544c62-4889-46a9-a6bb-3ceded9fe216-13-covid19-prob-0.605.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  13.PNG
+Individual Image Download Successful
+Image Saved. File Name:  13-covid19-prob-0.605.png
+Individual Files Removed
+
+predicted_images/musc/8dea9c4b-12f7-4c9e-ab7f-c0cde9fb69dd-123-covid19-prob-0.153.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  123.PNG
+Individual Image Download Successful
+Image Saved. File Name:  123-covid19-prob-0.153.png
+Individual Files Removed
+
+predicted_images/musc/8def2c80-7c8e-4806-974b-79d828ec9de5-41 01-covid19-prob-0.477.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  41 01.PNG
+Individual Image Download Successful
+Image Saved. File Name:  41 01-covid19-prob-0.477.png
+Individual Files Removed
+
+predicted_images/musc/8e156ed8-00bf-4b83-a17f-f63f2a7ccabe-202 1-covid19-prob-0.997.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  202 1.png
+Individual Image Download Successful
+Image Saved. File Name:  202 1-covid19-prob-0.997.png
+Individual Files Removed
+
+predicted_images/musc/8fe1ffdf-24a3-40e6-a56d-540f59c351b2-55-covid19-prob-0.998.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  55.PNG
+Individual Image Download Successful
+Image Saved. File Name:  55-covid19-prob-0.998.png
+Individual Files Removed
+
+predicted_images/musc/90058b5d-b2a8-4c33-a229-f02bd9fc0eb0-16-covid19-prob-0.602.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  16.PNG
+Individual Image Download Successful
+Image Saved. File Name:  16-covid19-prob-0.602.png
+Individual Files Removed
+
+predicted_images/musc/9089a052-dec4-4e56-a7de-7fce80787026-44-covid19-prob-0.549.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  44.PNG
+Individual Image Download Successful
+Image Saved. File Name:  44-covid19-prob-0.549.png
+Individual Files Removed
+
+predicted_images/musc/912cc794-81d5-4e31-b165-e5bc84c04def-153 1-covid19-prob-0.819.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  153 1.png
+Individual Image Download Successful
+Image Saved. File Name:  153 1-covid19-prob-0.819.png
+Individual Files Removed
+
+predicted_images/musc/916f4906-0c60-446f-82f0-2bfb71877038-28-covid19-prob-0.362.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  28.PNG
+Individual Image Download Successful
+Image Saved. File Name:  28-covid19-prob-0.362.png
+Individual Files Removed
+
+predicted_images/musc/9386ad71-0c73-4ab2-a02c-870d08d2a8a0-248-covid19-prob-0.905.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  248.PNG
+Individual Image Download Successful
+Image Saved. File Name:  248-covid19-prob-0.905.png
+Individual Files Removed
+
+predicted_images/musc/966649fd-8ddb-4390-be15-f7173ae2cdb2-27 high-covid19-prob-0.314.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  27 high.png
+Individual Image Download Successful
+Image Saved. File Name:  27 high-covid19-prob-0.314.png
+Individual Files Removed
+
+predicted_images/musc/97db5a53-463b-40a9-bf24-eb5f962968f2-126-covid19-prob-0.878.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  126.PNG
+Individual Image Download Successful
+Image Saved. File Name:  126-covid19-prob-0.878.png
+Individual Files Removed
+
+predicted_images/musc/9862356b-e597-4bd6-a9f1-a74295a5a3b8-125-covid19-prob-0.113.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  125.PNG
+Individual Image Download Successful
+Image Saved. File Name:  125-covid19-prob-0.113.png
+Individual Files Removed
+
+predicted_images/musc/992893eb-b8ec-4a17-8816-bd0cc8def555-1-s2.0-S0929664620300449-gr2_lrg-c-covid19-prob-1.0.png 
+Status: No Image for Key
+
+predicted_images/musc/997b839e-701e-49c1-8daa-d5370993fc83-17 3-covid19-prob-0.099.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  17 3.PNG
+Individual Image Download Successful
+Image Saved. File Name:  17 3-covid19-prob-0.099.png
+Individual Files Removed
+
+predicted_images/musc/99e880a5-2d0b-438b-9647-19f134906e00-197-covid19-prob-0.907.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  197.png
+Individual Image Download Successful
+Image Saved. File Name:  197-covid19-prob-0.907.png
+Individual Files Removed
+
+predicted_images/musc/9a6b818a-2e3d-4d67-a5ec-c77e806601a8-34-covid19-prob-0.214.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  34.png
+Individual Image Download Successful
+Image Saved. File Name:  34-covid19-prob-0.214.png
+Individual Files Removed
+
+predicted_images/musc/9bd127e5-4dbf-4679-8364-b1ae0ab24f56-247-covid19-prob-0.019.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  247.PNG
+Individual Image Download Successful
+Image Saved. File Name:  247-covid19-prob-0.019.png
+Individual Files Removed
+
+predicted_images/musc/9c1435aa-9259-440b-b712-386ffb5b1e39-175-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  175.png
+Individual Image Download Successful
+Image Saved. File Name:  175-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/9cd45cd2-73e4-4bac-907a-87a0cc46d412-235-covid19-prob-0.998.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  235.png
+Individual Image Download Successful
+Image Saved. File Name:  235-covid19-prob-0.998.png
+Individual Files Removed
+
+predicted_images/musc/9e019493-5057-4896-a267-af5fddfdae7a-159 1-covid19-prob-0.867.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  159 1.png
+Individual Image Download Successful
+Image Saved. File Name:  159 1-covid19-prob-0.867.png
+Individual Files Removed
+
+predicted_images/musc/9e90bca5-3c4d-4eb0-9219-beda14952d98-54-covid19-prob-0.996.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  54.PNG
+Individual Image Download Successful
+Image Saved. File Name:  54-covid19-prob-0.996.png
+Individual Files Removed
+
+predicted_images/musc/9eb31e1e-f71e-4a97-b39d-b7a60ba84de6-Screen Shot 2020-12-13 at 10.44.33 AM-covid19-prob-0.914.png 
+Status: No Image for Key
+
+predicted_images/musc/9feddc12-a916-4455-9524-a1129a4e95a6-IM-0027-0001-covid19-prob-0.0.png 
+Status: No Image for Key
+
+predicted_images/musc/MD_FEMAIL_33YRS-covid19-prob-0.016.png 
+Status: No Image for Key
+
+predicted_images/musc/PRAT_FEMAIL_25YRS-covid19-prob-0.0.png 
+Status: No Image for Key
+
+predicted_images/musc/Patient One F_25-covid19-prob-0.0.png 
+Status: No Image for Key
+
+predicted_images/musc/Patient_Five-covid19-prob-0.0.png 
+Status: No Image for Key
+
+predicted_images/musc/Patient_Four_F_55-covid19-prob-0.968.png 
+Status: No Image for Key
+
+predicted_images/musc/Patient_One_F_25-covid19-prob-0.0.png 
+Status: No Image for Key
+
+predicted_images/musc/Patient_Six-covid19-prob-0.92.png 
+Status: No Image for Key
+
+predicted_images/musc/Patient_Three_M_65-covid19-prob-1.0.png 
+Status: No Image for Key
+
+predicted_images/musc/Patient_Two_M_60-covid19-prob-0.002.png 
+Status: No Image for Key
+
+predicted_images/musc/SMAN_FEMAIL_40YRS-covid19-prob-0.0.png 
+Status: No Image for Key
+
+predicted_images/musc/Screen Shot 2020-12-02 at 9.16.04 AM-covid19-prob-0.593.png 
+Status: No Image for Key
+
+predicted_images/musc/VIB_MAIL_70YRS-covid19-prob-0.0.png 
+Status: No Image for Key
+
+predicted_images/musc/a1d3edec-350e-4c33-84ce-eaffb25b31de-198-covid19-prob-0.989.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  198.png
+Individual Image Download Successful
+Image Saved. File Name:  198-covid19-prob-0.989.png
+Individual Files Removed
+
+predicted_images/musc/a238044a-07c7-4a60-8aff-5785de4b3478-93-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  93.png
+Individual Image Download Successful
+Image Saved. File Name:  93-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/a3125ede-b2b1-4f23-a509-69f208047aa6-216 1-covid19-prob-0.984.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  216 1.png
+Individual Image Download Successful
+Image Saved. File Name:  216 1-covid19-prob-0.984.png
+Individual Files Removed
+
+predicted_images/musc/a3b81785-d2e9-4c22-a922-01cf029bd9a0-143-covid19-prob-0.279.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  143.PNG
+Individual Image Download Successful
+Image Saved. File Name:  143-covid19-prob-0.279.png
+Individual Files Removed
+
+predicted_images/musc/a41c7e63-fb3c-47ff-906c-48ca0e71b271-17 2-covid19-prob-0.189.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  17 2.PNG
+Individual Image Download Successful
+Image Saved. File Name:  17 2-covid19-prob-0.189.png
+Individual Files Removed
+
+predicted_images/musc/a774fb11-df9e-493c-a63b-6631b1561ae9-228-covid19-prob-0.057.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  228.PNG
+Individual Image Download Successful
+Image Saved. File Name:  228-covid19-prob-0.057.png
+Individual Files Removed
+
+predicted_images/musc/a8489581-04be-42a4-b0ab-d9a377d8a4cb-213-covid19-prob-0.997.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  213.png
+Individual Image Download Successful
+Image Saved. File Name:  213-covid19-prob-0.997.png
+Individual Files Removed
+
+predicted_images/musc/a9c465a2-85b0-4570-a498-fb76f0bd91a9-18-covid19-prob-0.988.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  18.PNG
+Individual Image Download Successful
+Image Saved. File Name:  18-covid19-prob-0.988.png
+Individual Files Removed
+
+predicted_images/musc/ac09fa8f-7365-4312-9aed-71a40108b72a-53-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  53.PNG
+Individual Image Download Successful
+Image Saved. File Name:  53-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/ad0becbc-3e0e-4303-ac93-c9bd86508813-37-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  37.png
+Individual Image Download Successful
+Image Saved. File Name:  37-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/ad5c5ba6-6306-4ac5-a36e-a49c886b7b03-208-covid19-prob-0.982.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  208.png
+Individual Image Download Successful
+Image Saved. File Name:  208-covid19-prob-0.982.png
+Individual Files Removed
+
+predicted_images/musc/adbd4168-9a17-4d4c-b56d-6c9747782054-213 1-covid19-prob-0.997.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  213 1.png
+Individual Image Download Successful
+Image Saved. File Name:  213 1-covid19-prob-0.997.png
+Individual Files Removed
+
+predicted_images/musc/ae7d84a9-42af-42ff-ab29-f8f81e881338-77-covid19-prob-0.116.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  77.png
+Individual Image Download Successful
+Image Saved. File Name:  77-covid19-prob-0.116.png
+Individual Files Removed
+
+predicted_images/musc/aec5279a-5aa1-4c5d-93f6-ae7cb9ed026b-133 1-covid19-prob-0.993.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  133 1.png
+Individual Image Download Successful
+Image Saved. File Name:  133 1-covid19-prob-0.993.png
+Individual Files Removed
+
+predicted_images/musc/af4399e4-aad9-4f5c-af22-b77dcc28a9c2-153 2-covid19-prob-0.469.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  153 2.png
+Individual Image Download Successful
+Image Saved. File Name:  153 2-covid19-prob-0.469.png
+Individual Files Removed
+
+predicted_images/musc/af73961c-9465-4d7d-81e4-0774f74e26d5-94-covid19-prob-0.99.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  94.png
+Individual Image Download Successful
+Image Saved. File Name:  94-covid19-prob-0.99.png
+Individual Files Removed
+
+predicted_images/musc/afe7a4bf-0c95-490e-90ee-a151a6e97ed9-62-covid19-prob-0.998.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  62.PNG
+Individual Image Download Successful
+Image Saved. File Name:  62-covid19-prob-0.998.png
+Individual Files Removed
+
+predicted_images/musc/aspiration-pneumonia-5-day27-covid19-prob-0.981.png 
+Status: No Image for Key
+
+predicted_images/musc/b09f79d8-5e83-4dde-8a28-b732eefed9b5-98-covid19-prob-0.936.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  98.PNG
+Individual Image Download Successful
+Image Saved. File Name:  98-covid19-prob-0.936.png
+Individual Files Removed
+
+predicted_images/musc/b2122e48-c67d-4177-85c9-9e8c3b6cdeb5-213 2-covid19-prob-0.982.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  213 2.png
+Individual Image Download Successful
+Image Saved. File Name:  213 2-covid19-prob-0.982.png
+Individual Files Removed
+
+predicted_images/musc/b21d151a-f533-4fd8-9fc9-8d64e05d5bbc-100-covid19-prob-0.768.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  100.PNG
+Individual Image Download Successful
+Image Saved. File Name:  100-covid19-prob-0.768.png
+Individual Files Removed
+
+predicted_images/musc/b2f88589-a591-4000-b05d-659ab03c521b-23 2-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  23 2.PNG
+Individual Image Download Successful
+Image Saved. File Name:  23 2-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/b47fa9d5-efeb-45e1-a2f5-5137a36b2953-171 1-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  171 1.png
+Individual Image Download Successful
+Image Saved. File Name:  171 1-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/b5965bfa-5265-411a-b768-f009dd97825a-177-covid19-prob-0.974.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  177.png
+Individual Image Download Successful
+Image Saved. File Name:  177-covid19-prob-0.974.png
+Individual Files Removed
+
+predicted_images/musc/b611b5b4-d5c5-4529-b6e4-dd04a79d47d3-227-covid19-prob-0.001.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  227.PNG
+Individual Image Download Successful
+Image Saved. File Name:  227-covid19-prob-0.001.png
+Individual Files Removed
+
+predicted_images/musc/b636e1ad-6c66-420b-9e1a-4cc8c4dcde19-197-covid19-prob-0.977.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  197.png
+Individual Image Download Successful
+Image Saved. File Name:  197-covid19-prob-0.977.png
+Individual Files Removed
+
+predicted_images/musc/b6e96f99-c453-433e-b1e1-2d54be131ad5-116-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  116.PNG
+Individual Image Download Successful
+Image Saved. File Name:  116-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/b97899b8-a877-40bf-9363-7dbd9e03d1a2-217 1-covid19-prob-0.914.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  217 1.png
+Individual Image Download Successful
+Image Saved. File Name:  217 1-covid19-prob-0.914.png
+Individual Files Removed
+
+predicted_images/musc/baf11ac4-a7af-4ae7-8abd-b4f3bc218bb1-21-covid19-prob-0.146.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  21.PNG
+Individual Image Download Successful
+Image Saved. File Name:  21-covid19-prob-0.146.png
+Individual Files Removed
+
+predicted_images/musc/bb77b00a-3880-4465-a37e-a620bdc78965-76 1-covid19-prob-0.235.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  76 1.png
+Individual Image Download Successful
+Image Saved. File Name:  76 1-covid19-prob-0.235.png
+Individual Files Removed
+
+predicted_images/musc/bb91939a-c1fb-4623-b800-df20647b80aa-IM-0027-0001-covid19-prob-0.0.png 
+Status: No Image for Key
+
+predicted_images/musc/bc3a383d-f097-480e-a297-2951c0c67cdc-192 1-covid19-prob-0.96.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  192 1.png
+Individual Image Download Successful
+Image Saved. File Name:  192 1-covid19-prob-0.96.png
+Individual Files Removed
+
+predicted_images/musc/bf4964b4-1361-433c-a6ee-1f3c34ae74a0-214-covid19-prob-0.93.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  214.png
+Individual Image Download Successful
+Image Saved. File Name:  214-covid19-prob-0.93.png
+Individual Files Removed
+
+predicted_images/musc/bf707d7a-9334-4bf7-ad04-dd7fba4bf355-32 1-covid19-prob-0.729.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  32 1.png
+Individual Image Download Successful
+Image Saved. File Name:  32 1-covid19-prob-0.729.png
+Individual Files Removed
+
+predicted_images/musc/bf87054c-d0a7-46db-b5c8-df85b1a9a3d5-244-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  244.PNG
+Individual Image Download Successful
+Image Saved. File Name:  244-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/c0d284eb-30b4-4ecb-990d-c8c08d3b58d9-146-covid19-prob-0.008.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  146.PNG
+Individual Image Download Successful
+Image Saved. File Name:  146-covid19-prob-0.008.png
+Individual Files Removed
+
+predicted_images/musc/c1273732-2619-4971-b7e5-36e7cf53a0a0-83 3-covid19-prob-0.643.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  83 3.png
+Individual Image Download Successful
+Image Saved. File Name:  83 3-covid19-prob-0.643.png
+Individual Files Removed
+
+predicted_images/musc/c2790122-b3e5-4e1d-8e6f-7b6b7eda52f4-35-covid19-prob-0.879.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  35.png
+Individual Image Download Successful
+Image Saved. File Name:  35-covid19-prob-0.879.png
+Individual Files Removed
+
+predicted_images/musc/c29ecfb6-3dbc-4756-aa7d-e244fce3e575-IM-0027-0001-covid19-prob-0.0.png 
+Status: No Image for Key
+
+predicted_images/musc/c2c03e93-cf90-4895-86e8-3ef0873b7123-172-covid19-prob-0.993.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  172.png
+Individual Image Download Successful
+Image Saved. File Name:  172-covid19-prob-0.993.png
+Individual Files Removed
+
+predicted_images/musc/c3537e21-fdf4-43e5-ab62-5f26033a0679-112-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  112.PNG
+Individual Image Download Successful
+Image Saved. File Name:  112-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/c491df31-dbb9-4043-adc8-c4cb8146100b-224-1-covid19-prob-0.659.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  224-1.PNG
+Individual Image Download Successful
+Image Saved. File Name:  224-1-covid19-prob-0.659.png
+Individual Files Removed
+
+predicted_images/musc/c4dd4328-68fa-4a5e-866a-1a672ee6fb29-71-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  71.PNG
+Individual Image Download Successful
+Image Saved. File Name:  71-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/c548f54b-4594-437e-8f9b-685f08a7f74d-42-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  42.PNG
+Individual Image Download Successful
+Image Saved. File Name:  42-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/c6ac1c6b-1468-4f43-9793-073cf4f76e9f-233-covid19-prob-0.912.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  233.png
+Individual Image Download Successful
+Image Saved. File Name:  233-covid19-prob-0.912.png
+Individual Files Removed
+
+predicted_images/musc/c6e442b9-4cae-44d8-a1be-274496497cc2-110-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  110.PNG
+Individual Image Download Successful
+Image Saved. File Name:  110-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/c6f35477-0ec6-4d43-b362-58bae0b54da2-47-covid19-prob-0.901.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  47.PNG
+Individual Image Download Successful
+Image Saved. File Name:  47-covid19-prob-0.901.png
+Individual Files Removed
+
+predicted_images/musc/c74dafb8-d4e2-477c-a377-d89e038248ed-IM-0027-0001-covid19-prob-0.0.png 
+Status: No Image for Key
+
+predicted_images/musc/c76f9426-b5ac-4b7a-bf07-4b2118641e3f-124-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  124.PNG
+Individual Image Download Successful
+Image Saved. File Name:  124-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/c84b91f9-ca96-4cf4-a1bf-e007313d1e67-23 1-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  23 1.PNG
+Individual Image Download Successful
+Image Saved. File Name:  23 1-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/c8d2b402-135c-41f4-8a46-469139572a9f-222-2-covid19-prob-0.025.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  222-2.PNG
+Individual Image Download Successful
+Image Saved. File Name:  222-2-covid19-prob-0.025.png
+Individual Files Removed
+
+predicted_images/musc/c92d8f70-3011-4770-810f-3418474225f7-72-covid19-prob-0.912.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  72.PNG
+Individual Image Download Successful
+Image Saved. File Name:  72-covid19-prob-0.912.png
+Individual Files Removed
+
+predicted_images/musc/c9329354-5e27-4fbd-b39e-0e76e7af4c05-191-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  191.png
+Individual Image Download Successful
+Image Saved. File Name:  191-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/c9c69f51-c9d3-4df1-8203-554a20bb3193-161 1-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  161 1.png
+Individual Image Download Successful
+Image Saved. File Name:  161 1-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/cb427b89-c3e4-410d-8894-c9b4bbf8be56-207 1-covid19-prob-0.912.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  207 1.png
+Individual Image Download Successful
+Image Saved. File Name:  207 1-covid19-prob-0.912.png
+Individual Files Removed
+
+predicted_images/musc/cb4b3cdb-fe93-49e4-b247-c1abf6ba2daf-60-covid19-prob-0.642.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  60.PNG
+Individual Image Download Successful
+Image Saved. File Name:  60-covid19-prob-0.642.png
+Individual Files Removed
+
+predicted_images/musc/cbd90c97-e8af-4751-9467-c39b9329be12-29-covid19-prob-0.712.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  29.png
+Individual Image Download Successful
+Image Saved. File Name:  29-covid19-prob-0.712.png
+Individual Files Removed
+
+predicted_images/musc/cbec6e9f-7ed0-45aa-8221-c3706e15d4dc-69-covid19-prob-0.999.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  69.PNG
+Individual Image Download Successful
+Image Saved. File Name:  69-covid19-prob-0.999.png
+Individual Files Removed
+
+predicted_images/musc/cc7ff892-d910-4c3f-963d-b06f0ab4a550-194 2-covid19-prob-0.992.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  194 2.png
+Individual Image Download Successful
+Image Saved. File Name:  194 2-covid19-prob-0.992.png
+Individual Files Removed
+
+predicted_images/musc/ccee3c25-baeb-4313-a4d9-a267a5f01fd6-VIB_MAIL_70YRS-covid19-prob-0.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  VIB_MAIL_70YRS.jpg
+Individual Image Download Successful
+Image Saved. File Name:  VIB_MAIL_70YRS-covid19-prob-0.0.png
+Individual Files Removed
+
+predicted_images/musc/ccf48496-9c24-414a-946a-50de045fc333-34 sec-covid19-prob-0.945.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  34 sec.png
+Individual Image Download Successful
+Image Saved. File Name:  34 sec-covid19-prob-0.945.png
+Individual Files Removed
+
+predicted_images/musc/cd431ff5-13d9-4fb1-8094-b819502cb04f-133 2-covid19-prob-0.835.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  133 2.png
+Individual Image Download Successful
+Image Saved. File Name:  133 2-covid19-prob-0.835.png
+Individual Files Removed
+
+predicted_images/musc/ce392545-7f23-48ce-a30e-1a8b689163c1-39-covid19-prob-0.997.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  39.png
+Individual Image Download Successful
+Image Saved. File Name:  39-covid19-prob-0.997.png
+Individual Files Removed
+
+predicted_images/musc/cf18314c-45ef-41a7-998a-41daf751962d-41-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  41.PNG
+Individual Image Download Successful
+Image Saved. File Name:  41-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/cf40ed09-ce2d-4b08-87aa-ecab8ab7438e-83 2-covid19-prob-0.995.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  83 2.png
+Individual Image Download Successful
+Image Saved. File Name:  83 2-covid19-prob-0.995.png
+Individual Files Removed
+
+predicted_images/musc/cf826019-419e-430e-ba71-876b23e9710a-107 1-covid19-prob-0.765.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  107 1.PNG
+Individual Image Download Successful
+Image Saved. File Name:  107 1-covid19-prob-0.765.png
+Individual Files Removed
+
+predicted_images/musc/d0649530-4d48-47a5-bf08-f840a50931af-165-covid19-prob-0.819.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  165.png
+Individual Image Download Successful
+Image Saved. File Name:  165-covid19-prob-0.819.png
+Individual Files Removed
+
+predicted_images/musc/d204e3fc-7472-46b3-b9b8-6f8f5bed80a2-kjr-21-e24-g003-l-a-covid19-prob-0.999.png 
+Status: No Image for Key
+
+predicted_images/musc/d28d3845-2ceb-4b14-bc1d-684370d6c94d-IM-0027-0001-covid19-prob-0.0.png 
+Status: No Image for Key
+
+predicted_images/musc/d2c05b1b-b94b-4f2b-8547-06bb9100709d-22-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  22.PNG
+Individual Image Download Successful
+Image Saved. File Name:  22-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/d2e1ba0d-fb1f-4433-9eec-f7280d5ce9c7-127-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  127.PNG
+Individual Image Download Successful
+Image Saved. File Name:  127-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/d2fa5b0f-3071-4128-a6f2-1685b1de4fb4-82-covid19-prob-0.249.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  82.png
+Individual Image Download Successful
+Image Saved. File Name:  82-covid19-prob-0.249.png
+Individual Files Removed
+
+predicted_images/musc/d386c8e1-b26f-4bc4-b4d6-dd28d0a3fe8e-85 3-covid19-prob-0.971.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  85 3.png
+Individual Image Download Successful
+Image Saved. File Name:  85 3-covid19-prob-0.971.png
+Individual Files Removed
+
+predicted_images/musc/d3ddc9c4-d735-4edb-b8bb-3531d2901c88-159 2-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  159 2.png
+Individual Image Download Successful
+Image Saved. File Name:  159 2-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/d465b9ed-e5b7-400c-ba8e-ed5d0dc69984-Patient_Four_F_55-covid19-prob-0.968.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  Patient_Four_F_55.jpeg
+Individual Image Download Successful
+Image Saved. File Name:  Patient_Four_F_55-covid19-prob-0.968.png
+Individual Files Removed
+
+predicted_images/musc/d5c92757-0a92-4835-9607-f4eecc3e5d4c-182-covid19-prob-0.231.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  182.png
+Individual Image Download Successful
+Image Saved. File Name:  182-covid19-prob-0.231.png
+Individual Files Removed
+
+predicted_images/musc/d6577b9a-0d47-4973-b2f7-d54190598847-85 4-covid19-prob-0.013.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  85 4.png
+Individual Image Download Successful
+Image Saved. File Name:  85 4-covid19-prob-0.013.png
+Individual Files Removed
+
+predicted_images/musc/d6ae6153-bb2d-48b5-aa7a-dc8f9f6e6afb-139 repeat-covid19-prob-0.534.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  139 repeat.png
+Individual Image Download Successful
+Image Saved. File Name:  139 repeat-covid19-prob-0.534.png
+Individual Files Removed
+
+predicted_images/musc/d746c434-8bbe-41e7-82de-a3ffdd88fcfe-91 2-covid19-prob-0.999.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  91 2.png
+Individual Image Download Successful
+Image Saved. File Name:  91 2-covid19-prob-0.999.png
+Individual Files Removed
+
+predicted_images/musc/d8432195-f4fa-4cba-9d44-5b9a397012b0-179 1-covid19-prob-0.998.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  179 1.png
+Individual Image Download Successful
+Image Saved. File Name:  179 1-covid19-prob-0.998.png
+Individual Files Removed
+
+predicted_images/musc/d8991b09-16f5-462e-aa91-3f000873f740-154-covid19-prob-0.943.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  154.png
+Individual Image Download Successful
+Image Saved. File Name:  154-covid19-prob-0.943.png
+Individual Files Removed
+
+predicted_images/musc/d9ba6f4b-180d-4c8a-8a9c-fbcca356d210-161-covid19-prob-0.295.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  161.png
+Individual Image Download Successful
+Image Saved. File Name:  161-covid19-prob-0.295.png
+Individual Files Removed
+
+predicted_images/musc/d9e6d916-d587-41f7-bc96-630d7b037208-172 1-covid19-prob-0.998.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  172 1.png
+Individual Image Download Successful
+Image Saved. File Name:  172 1-covid19-prob-0.998.png
+Individual Files Removed
+
+predicted_images/musc/daa702dd-ef97-4573-b4b5-01553e150768-63-covid19-prob-0.905.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  63.PNG
+Individual Image Download Successful
+Image Saved. File Name:  63-covid19-prob-0.905.png
+Individual Files Removed
+
+predicted_images/musc/dba9c301-274e-4745-9687-5281f4e15735-153-covid19-prob-0.146.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  153.png
+Individual Image Download Successful
+Image Saved. File Name:  153-covid19-prob-0.146.png
+Individual Files Removed
+
+predicted_images/musc/dbc1e0b7-d6ba-4426-adb4-e291ddc4003d-195-covid19-prob-0.874.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  195.png
+Individual Image Download Successful
+Image Saved. File Name:  195-covid19-prob-0.874.png
+Individual Files Removed
+
+predicted_images/musc/dd8b97d2-c0a9-4d33-8c74-b695d3092f70-222-1-covid19-prob-0.579.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  222-1.PNG
+Individual Image Download Successful
+Image Saved. File Name:  222-1-covid19-prob-0.579.png
+Individual Files Removed
+
+predicted_images/musc/dde78adc-f44d-4cf1-8935-9e6416a23743-130-covid19-prob-0.997.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  130.png
+Individual Image Download Successful
+Image Saved. File Name:  130-covid19-prob-0.997.png
+Individual Files Removed
+
+predicted_images/musc/de899c56-1cda-4cca-ac70-a33f8421f47b-166-covid19-prob-0.117.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  166.png
+Individual Image Download Successful
+Image Saved. File Name:  166-covid19-prob-0.117.png
+Individual Files Removed
+
+predicted_images/musc/deabd3c6-e2f9-4278-8fef-f976118da55f-150-covid19-prob-0.99.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  150.png
+Individual Image Download Successful
+Image Saved. File Name:  150-covid19-prob-0.99.png
+Individual Files Removed
+
+predicted_images/musc/e04310f0-c2fd-4973-8bd3-331b6e716ad6-38 2-covid19-prob-0.939.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  38 2.png
+Individual Image Download Successful
+Image Saved. File Name:  38 2-covid19-prob-0.939.png
+Individual Files Removed
+
+predicted_images/musc/e05d593d-5f6d-4dfe-900b-b45f14361e22-test-covid19-prob-0.084.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  test.PNG
+Individual Image Download Successful
+Image Saved. File Name:  test-covid19-prob-0.084.png
+Individual Files Removed
+
+predicted_images/musc/e28d8345-bb68-4427-b563-c953f0d5277a-213 4-covid19-prob-0.925.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  213 4.png
+Individual Image Download Successful
+Image Saved. File Name:  213 4-covid19-prob-0.925.png
+Individual Files Removed
+
+predicted_images/musc/e2e3dc62-8f9e-4451-bc3f-f3b9b4ee8f75-4-covid19-prob-0.983.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  4.png
+Individual Image Download Successful
+Image Saved. File Name:  4-covid19-prob-0.983.png
+Individual Files Removed
+
+predicted_images/musc/e398a099-ba21-4362-9ec1-71687ad707a2-173-covid19-prob-0.931.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  173.png
+Individual Image Download Successful
+Image Saved. File Name:  173-covid19-prob-0.931.png
+Individual Files Removed
+
+predicted_images/musc/e3cf36d2-70a4-416c-bf4e-f508ee0c6306-242-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  242.PNG
+Individual Image Download Successful
+Image Saved. File Name:  242-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/e3dd9631-b8a2-45c8-ba50-123622eecf09-79-covid19-prob-0.006.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  79.png
+Individual Image Download Successful
+Image Saved. File Name:  79-covid19-prob-0.006.png
+Individual Files Removed
+
+predicted_images/musc/e4a92a63-d57b-45f2-9ae4-68836892432d-192 4-covid19-prob-0.393.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  192 4.png
+Individual Image Download Successful
+Image Saved. File Name:  192 4-covid19-prob-0.393.png
+Individual Files Removed
+
+predicted_images/musc/e4a9acff-6975-420f-8d4a-c5ff4a3184c2-171-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  171.png
+Individual Image Download Successful
+Image Saved. File Name:  171-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/e4f95b8e-4f42-4003-b882-14ff11053fe5-46 1-covid19-prob-0.999.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  46 1.PNG
+Individual Image Download Successful
+Image Saved. File Name:  46 1-covid19-prob-0.999.png
+Individual Files Removed
+
+predicted_images/musc/e52d5e23-144d-4fe5-87ac-8b582a33fbfa-73 4-covid19-prob-0.926.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  73 4.png
+Individual Image Download Successful
+Image Saved. File Name:  73 4-covid19-prob-0.926.png
+Individual Files Removed
+
+predicted_images/musc/e553e617-9e58-4c40-adc5-7c721c13fe0eIM-0027-0001-covid19-prob-0.0.png 
+Status: Finding Corresponding Image...
+Individual Image Download Failed
+Raw Key:  predicted_images/musc/e553e617-9e58-4c40-adc5-7c721c13fe0eIM-0027-0001-covid19-prob-0.0.png 
+JPEG Key:  jpg/
+Exception/Error Occurred:  An error occurred (404) when calling the HeadObject operation: Not Found
+
+predicted_images/musc/e5949a89-68c5-44c4-8d98-309388293f92-33 3-covid19-prob-0.862.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  33 3.png
+Individual Image Download Successful
+Image Saved. File Name:  33 3-covid19-prob-0.862.png
+Individual Files Removed
+
+predicted_images/musc/e5d03c34-a02f-4f03-8a5d-92d005075547-73 1-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  73 1.png
+Individual Image Download Successful
+Image Saved. File Name:  73 1-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/e5fe4bb2-898e-4a8e-a7f3-1b24848ba9f2-89-covid19-prob-0.963.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  89.png
+Individual Image Download Successful
+Image Saved. File Name:  89-covid19-prob-0.963.png
+Individual Files Removed
+
+predicted_images/musc/e651fdba-951d-4900-8ec8-32c781dd1733-152-covid19-prob-0.991.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  152.png
+Individual Image Download Successful
+Image Saved. File Name:  152-covid19-prob-0.991.png
+Individual Files Removed
+
+predicted_images/musc/e6da778f-7a59-4695-bd0a-476051ca7f6e-45-covid19-prob-0.821.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  45.PNG
+Individual Image Download Successful
+Image Saved. File Name:  45-covid19-prob-0.821.png
+Individual Files Removed
+
+predicted_images/musc/e7fd3977-a5b5-485e-8128-e993c4ca2405-158-covid19-prob-0.925.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  158.png
+Individual Image Download Successful
+Image Saved. File Name:  158-covid19-prob-0.925.png
+Individual Files Removed
+
+predicted_images/musc/e80f3dec-1d18-46a0-9916-e1586f2862a7-179-covid19-prob-0.853.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  179.png
+Individual Image Download Successful
+Image Saved. File Name:  179-covid19-prob-0.853.png
+Individual Files Removed
+
+predicted_images/musc/e8183ed0-fcef-4cb4-b490-80c393d7176a-118-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  118.PNG
+Individual Image Download Successful
+Image Saved. File Name:  118-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/e8a7f401-68a3-4761-abac-4232f2ecb74f-76-covid19-prob-0.918.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  76.png
+Individual Image Download Successful
+Image Saved. File Name:  76-covid19-prob-0.918.png
+Individual Files Removed
+
+predicted_images/musc/e8c4e862-6ef1-4677-8c97-121b0effed54-161 2-covid19-prob-0.47.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  161 2.png
+Individual Image Download Successful
+Image Saved. File Name:  161 2-covid19-prob-0.47.png
+Individual Files Removed
+
+predicted_images/musc/e8dff92d-4822-4110-b75d-303c8a3dc255-192-covid19-prob-0.999.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  192.png
+Individual Image Download Successful
+Image Saved. File Name:  192-covid19-prob-0.999.png
+Individual Files Removed
+
+predicted_images/musc/ea2b8488-7c29-4758-8c07-62772050cca0-28-covid19-prob-0.302.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  28.PNG
+Individual Image Download Successful
+Image Saved. File Name:  28-covid19-prob-0.302.png
+Individual Files Removed
+
+predicted_images/musc/ea93e0ff-755a-4fde-a552-6aa6ef70de7f-4996132-covid19-prob-0.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  4996132.jpg
+Individual Image Download Successful
+Image Saved. File Name:  4996132-covid19-prob-0.0.png
+Individual Files Removed
+
+predicted_images/musc/ebe7d0b6-32ba-435b-833a-9348dd742d42-238-covid19-prob-0.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  238.png
+Individual Image Download Successful
+Image Saved. File Name:  238-covid19-prob-0.0.png
+Individual Files Removed
+
+predicted_images/musc/ecb4a394-d2e5-4dad-a74a-9bd1187df3aa-168-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  168.png
+Individual Image Download Successful
+Image Saved. File Name:  168-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/ed161cd3-810d-483f-80a2-e88ca3c84d3e-68-covid19-prob-0.969.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  68.PNG
+Individual Image Download Successful
+Image Saved. File Name:  68-covid19-prob-0.969.png
+Individual Files Removed
+
+predicted_images/musc/ed5053c4-0009-4f88-b889-4944506e4cd7-245-covid19-prob-0.967.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  245.PNG
+Individual Image Download Successful
+Image Saved. File Name:  245-covid19-prob-0.967.png
+Individual Files Removed
+
+predicted_images/musc/ef6bbb1b-0195-4cdd-a1cc-cff4a89976b7-223-covid19-prob-0.002.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  223.PNG
+Individual Image Download Successful
+Image Saved. File Name:  223-covid19-prob-0.002.png
+Individual Files Removed
+
+predicted_images/musc/f0eae37c-f4ab-40da-9052-2741289585b6-120-covid19-prob-0.967.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  120.PNG
+Individual Image Download Successful
+Image Saved. File Name:  120-covid19-prob-0.967.png
+Individual Files Removed
+
+predicted_images/musc/f0eb2141-59d6-4706-acc2-4a9821efeeda-48 1-covid19-prob-0.81.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  48 1.PNG
+Individual Image Download Successful
+Image Saved. File Name:  48 1-covid19-prob-0.81.png
+Individual Files Removed
+
+predicted_images/musc/f1e3ca6d-11ac-4094-bc59-cc8e7c0446a5-58-covid19-prob-0.955.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  58.PNG
+Individual Image Download Successful
+Image Saved. File Name:  58-covid19-prob-0.955.png
+Individual Files Removed
+
+predicted_images/musc/f26f9920-e5c0-4b43-8c0f-1a442f31ce27-111-covid19-prob-0.611.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  111.PNG
+Individual Image Download Successful
+Image Saved. File Name:  111-covid19-prob-0.611.png
+Individual Files Removed
+
+predicted_images/musc/f2883f59-6db0-494f-a243-c1152b08027b-129-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  129.png
+Individual Image Download Successful
+Image Saved. File Name:  129-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/f3407aa1-a709-4819-b607-31dfdf614076-167-covid19-prob-0.679.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  167.png
+Individual Image Download Successful
+Image Saved. File Name:  167-covid19-prob-0.679.png
+Individual Files Removed
+
+predicted_images/musc/f379df88-f3df-48af-87ba-e749093757d0-159-covid19-prob-0.947.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  159.png
+Individual Image Download Successful
+Image Saved. File Name:  159-covid19-prob-0.947.png
+Individual Files Removed
+
+predicted_images/musc/f37f21f2-100b-4953-9594-f8cf35725073-206-covid19-prob-0.99.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  206.png
+Individual Image Download Successful
+Image Saved. File Name:  206-covid19-prob-0.99.png
+Individual Files Removed
+
+predicted_images/musc/f4747244-817f-484d-bb22-1b971372ea05-78-covid19-prob-0.871.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  78.png
+Individual Image Download Successful
+Image Saved. File Name:  78-covid19-prob-0.871.png
+Individual Files Removed
+
+predicted_images/musc/f6cc139e-f0a9-490f-a848-95ef068403aa-160-covid19-prob-0.961.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  160.png
+Individual Image Download Successful
+Image Saved. File Name:  160-covid19-prob-0.961.png
+Individual Files Removed
+
+predicted_images/musc/f86d4249-7071-4721-99c0-e8b33d8bd6c0-65-covid19-prob-0.999.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  65.PNG
+Individual Image Download Successful
+Image Saved. File Name:  65-covid19-prob-0.999.png
+Individual Files Removed
+
+predicted_images/musc/f8f2c163-fe95-4b8e-b7c2-3b947a688282-224-covid19-prob-0.985.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  224.PNG
+Individual Image Download Successful
+Image Saved. File Name:  224-covid19-prob-0.985.png
+Individual Files Removed
+
+predicted_images/musc/f920a855-541c-4dba-8efb-40a0b1be8ff2-141-covid19-prob-0.144.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  141.png
+Individual Image Download Successful
+Image Saved. File Name:  141-covid19-prob-0.144.png
+Individual Files Removed
+
+predicted_images/musc/fa99b8ef-e26a-4b2d-bd4e-899260368b01-99-covid19-prob-0.539.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  99.PNG
+Individual Image Download Successful
+Image Saved. File Name:  99-covid19-prob-0.539.png
+Individual Files Removed
+
+predicted_images/musc/fab8814a-763e-47c5-b722-e5f262897b7e-239-covid19-prob-1.0.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  239.png
+Individual Image Download Successful
+Image Saved. File Name:  239-covid19-prob-1.0.png
+Individual Files Removed
+
+predicted_images/musc/fb5e496d-86d6-4e20-93ae-694043150e72-151-covid19-prob-0.99.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  151.png
+Individual Image Download Successful
+Image Saved. File Name:  151-covid19-prob-0.99.png
+Individual Files Removed
+
+predicted_images/musc/fcbbc9d4-bcd8-4cb3-8bc0-60a412cc4023-201-covid19-prob-0.993.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  201.png
+Individual Image Download Successful
+Image Saved. File Name:  201-covid19-prob-0.993.png
+Individual Files Removed
+
+predicted_images/musc/ffa15786-a815-4245-8ebf-46393ff0f456-17 1-covid19-prob-0.045.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  17 1.PNG
+Individual Image Download Successful
+Image Saved. File Name:  17 1-covid19-prob-0.045.png
+Individual Files Removed
+
+predicted_images/musc/ffaa01c2-5048-4abb-8e6d-839bd871edfa-178-covid19-prob-0.985.png 
+Status: Finding Corresponding Image...
+Corresponding Image Found in /jpg as:  178.png
+Individual Image Download Successful
+Image Saved. File Name:  178-covid19-prob-0.985.png
+Individual Files Removed
+
+predicted_images/musc/nejmoa2001191_f1-PA-covid19-prob-0.112.png 
+Status: No Image for Key
+
+predicted_images/musc/ryct.2020200034.fig5-day0-covid19-prob-0.957.png 
+Status: No Image for Key
+
+predicted_images/musc/ryct.2020200034.fig5-day4-covid19-prob-1.0.png 
+Status: No Image for Key
+
+predicted_images/musc/ryct.2020200034.fig5-day7-covid19-prob-1.0.png 
+Status: No Image for Key
+Downloaded:  347
+Errors:  1
